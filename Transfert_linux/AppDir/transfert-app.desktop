@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Transfert TCP
+Exec=transfert-app
+Terminal=false
+Type=Application
+Categories=Network;
